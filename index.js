@@ -13,7 +13,7 @@ app.get("/" , (req , res ) => {
 
 
 
-// mongodb+srv://simpleClientUser:oEbr1dPXWDrAaejS@cluster0.xbssfgf.mongodb.net/?appName=Cluster0
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
